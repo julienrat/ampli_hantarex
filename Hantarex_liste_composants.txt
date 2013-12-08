@@ -1,0 +1,42 @@
+Partlist
+
+Exported from ampli.brd at 08/12/13 17:09
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library        Position (inch)       Orientation
+
+C4       4.7uF          E5-10,5  resistor       (0.4 1.65)            R0
+C5       4.7uF          E5-10,5  resistor       (2.8 1.65)            R0
+C6       4.7uF          E5-10,5  resistor       (1.6 1.65)            R0
+Q1       BC108B         TO18     transistor-npn (3.25 1.6)            R0
+Q2       BC177          TO18     transistor-pnp (3.55 1.65)           R180
+Q3       BC108B         TO18     transistor-npn (0.85 1.6)            R0
+Q4       BC177          TO18     transistor-pnp (1.15 1.65)           R180
+Q5       BC108B         TO18     transistor-npn (2.05 1.6)            R0
+Q6       BC177          TO18     transistor-pnp (2.35 1.65)           R180
+R1       56             0207/10  resistor       (3.5 2)               R90
+R2       680            0207/10  resistor       (3.3 2)               R90
+R3       3.9K           0207/10  resistor       (3.05 2)              R90
+R4       150            0207/10  resistor       (3.25 1.2)            R90
+R5       750            0207/10  resistor       (3.05 1.35)           R90
+R6       75             0207/10  resistor       (2.6 1.35)            R90
+R7       510            0207/10  resistor       (3.55 1.4)            R180
+R8       56             0207/10  resistor       (1.1 2)               R90
+R9       680            0207/10  resistor       (0.9 2)               R90
+R10      3.9K           0207/10  resistor       (0.65 2)              R90
+R11      510            0207/10  resistor       (1.1 1.4)             R180
+R12      150            0207/10  resistor       (0.8 1.2)             R90
+R13      750            0207/10  resistor       (0.65 1.35)           R90
+R14      75             0207/10  resistor       (0.15 1.35)           R90
+R15      56             0207/10  resistor       (2.3 2)               R90
+R16      680            0207/10  resistor       (2.1 2)               R90
+R17      3.9K           0207/10  resistor       (1.85 2)              R90
+R18      150            0207/10  resistor       (2 1.2)               R90
+R19      750            0207/10  resistor       (1.85 1.35)           R90
+R20      75             0207/10  resistor       (1.4 1.35)            R90
+R21      510            0207/10  resistor       (2.3 1.4)             R180
+X1       G              KK-156-5 con-molex      (0.45 2.45)           R180
+X2                      KK-156-5 con-molex      (3.4 0.7)             R0
